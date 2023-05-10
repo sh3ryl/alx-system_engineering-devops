@@ -12,3 +12,4 @@
 11-lists all files (even ones that are hidden) in the current directory and the parent of the working directory (in this order), in long format.
 12-prints the type of the file.
 13-creates a symbolic link in the current working directory.
+14-copies all the HTML files from the current working directory to the parent of the working directory.
