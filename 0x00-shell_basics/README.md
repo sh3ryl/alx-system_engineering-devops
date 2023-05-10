@@ -4,3 +4,4 @@
 3-displays the current directory contents in a long format.
 4-displays the current directory contents, including hidden files.
 5-displays current directory contents with user and group IDs displayed numerically.
+6-creates a directory in another directory.
