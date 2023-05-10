@@ -13,3 +13,4 @@
 12-prints the type of the file.
 13-creates a symbolic link in the current working directory.
 14-copies all the HTML files from the current working directory to the parent of the working directory.
+100- moves all files beginning with an uppercase letter to the directory specified
