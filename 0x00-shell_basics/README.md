@@ -10,4 +10,5 @@
 9-deletes a directory that is in another directory.
 10-changes the working directory to the previous one.
 11-lists all files (even ones that are hidden) in the current directory and the parent of the working directory (in this order), in long format.
-12-prints the type of the file
+12-prints the type of the file.
+13-creates a symbolic link in the current working directory.
