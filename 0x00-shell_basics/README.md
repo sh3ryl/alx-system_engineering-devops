@@ -8,3 +8,4 @@
 7-moves a file from one directory to another.
 8-deletes the file.
 9-deletes a directory that is in another directory.
+10-changes the working directory to the previous one.
