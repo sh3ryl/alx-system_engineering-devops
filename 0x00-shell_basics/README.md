@@ -5,3 +5,4 @@
 4-displays the current directory contents, including hidden files.
 5-displays current directory contents with user and group IDs displayed numerically.
 6-creates a directory in another directory.
+7-moves a file from one directory to another.
