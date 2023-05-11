@@ -13,7 +13,8 @@
 12-prints the type of the file.
 13-creates a symbolic link in the current working directory.
 14-copies all the HTML files from the current working directory to the parent of the working directory.
-100- moves all files beginning with an uppercase letter to the directory specified.
-101- deletes all files in the current working directory that end with the character ~.
-102- add directory including its sub directory.
-103-lists all the files and directories of the current directory.
+15- moves all files beginning with an uppercase letter to the directory specified.
+16- deletes all files in the current working directory that end with the character ~.
+17- add directory including its sub directory.
+18-lists all the files and directories of the current directory.
+19-magic file hat can be used with the command file to detect data files
