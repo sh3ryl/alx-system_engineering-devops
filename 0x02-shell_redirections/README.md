@@ -8,3 +8,4 @@
 6-displays the third line of the file iacta
 7-creates a file name with text in it
 8-writes into the file the result of a command
+9-duplicates the last line of the file
