@@ -13,3 +13,5 @@
 11-counts the number of directories and sub-directories in the current directory
 12-displays the 10 newest files in the current directory.
 13- takes a list of words as input and prints only words that appear exactly once.
+14-Display lines containing the pattern “root”
+15-Display the number of lines that contain the pattern “bin” 
