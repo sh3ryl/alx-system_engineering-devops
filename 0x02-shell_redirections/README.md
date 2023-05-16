@@ -17,4 +17,6 @@
 15-display the number of lines that contain the pattern “bin”
 16-display lines containing the pattern “root” and 3 lines after them
 17-displays all the lines in the file that do not contain the pattern “bin”
-18-displays all lines of the file starting with a capital letter
+18-displays all lines of the file starting with a capital letter19-replace all characters
+20- removes all letters c and C from input.
+21-reverses its input.
