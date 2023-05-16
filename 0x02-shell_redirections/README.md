@@ -9,3 +9,5 @@
 7-creates a file name with text in it
 8-writes into the file the result of a command
 9-duplicates the last line of the file
+10-deletes all the regular files with a .js extension
+11-counts the number of directories and sub-directories in the current directory
